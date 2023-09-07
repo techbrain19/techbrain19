@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Techbrain</h1>
 <h3 align="center">A passionate Full-stack developer from Nigeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techbrain19" alt="techbrain19" /></a> </p>
-
 - 🌱 I’m currently learning **go, ruby, pearl**
 
 - 👨‍💻 All of my projects are available at [techbrain-profolio.netlify.app](techbrain-profolio.netlify.app)
