@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [techbrain-profolio.netlify.app](techbrain-profolio.netlify.app), [Github](https://techbrain19.github.io/My-Portfolio), [ Vercel](https://techbrain.vercel.app)
 
-- 💬 Ask me about **frontend, backend and database**
+- 💬 Ask me about **Frontend, Backend and Database**
 
 - 📫 How to reach me **Techbrain19@gmail.com, Techbrain19@icloud.com**
 
