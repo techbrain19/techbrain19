@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Full-stack developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **go, ruby, pearl**
-
-- 👨‍💻 All of my projects are available at [Netlify](https://techbrain-profolio.netlify.app), [Github](https://techbrain19.github.io/My-Portfolio), [ Vercel](https://techbrain.vercel.app)
+  
+- 👨‍💻 All of my projects are available at[Techbrain](https://Techbrain.com.ng) [Netlify](https://techbrain-profolio.netlify.app), [Github](https://techbrain19.github.io/My-Portfolio), [ Vercel](https://techbrain.vercel.app)
 
 - 💬 Ask me about **The design, developement and implementation of Frontend, Backend and Database**
 
